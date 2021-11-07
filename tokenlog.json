@@ -2,7 +2,6 @@
     "org": "CommonsBuild",
     "repo": "commons-config-proposals",
     "tokenAddress": "0x799844141C2627bD195c89c3A0c71341d0314c55",
-    "labels": ["Vote"],
     "votingMethod": "QUADRATIC",
     "chainId": 100
 }
